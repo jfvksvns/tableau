@@ -1,10 +1,10 @@
-# 📊 Tableau Data Visualization & Business Intelligence Portfolio
+ 📊 Tableau Data Visualization & Business Intelligence Portfolio
 
-> A complete Tableau learning repository covering data visualization, dashboard development, business analytics, calculations, Level of Detail (LOD) expressions, parameters, filters, data modeling, and interactive dashboards.
+ A complete Tableau learning repository covering data visualization, dashboard development, business analytics, calculations, Level of Detail (LOD) expressions, parameters, filters, data modeling, and interactive dashboards.
 
----
 
-# 📌 About This Repository
+
+📌 About This Repository
 
 This repository contains all the Tableau work completed during my **Data Analytics Training Program** at **ExcelR (IBM Certified Program)**.
 
@@ -20,9 +20,9 @@ The repository includes:
 
 The objective of this repository is to demonstrate practical Tableau skills used in Business Intelligence, Data Analytics, and Dashboard Development.
 
----
 
-# 🎯 Learning Objectives
+
+🎯 Learning Objectives
 
 Throughout this module I learned how to:
 
@@ -38,9 +38,9 @@ Throughout this module I learned how to:
 - Build KPI Dashboards
 - Publish dashboards using Tableau Public
 
----
 
-# 📚 Tableau Course Modules
+
+ 📚 Tableau Course Modules
 
 ## Module 1 – Tableau Introduction
 
@@ -151,9 +151,8 @@ Throughout this module I learned how to:
 - Presentation Dashboards
 - Tableau Public Publishing
 
----
 
-# 📂 Repository Structure
+ 📂 Repository Structure
 
 ```
 Tableau
