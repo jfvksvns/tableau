@@ -317,7 +317,4 @@ Computer Science Engineer | Data Analyst | Business Intelligence Enthusiast
 
 ### Connect with Me
 
-- GitHub: https://github.com/YourGitHub
-- LinkedIn: https://linkedin.com/in/YourLinkedIn
-
----
+- https://github.com/jfvksvns
