@@ -289,17 +289,7 @@ The final project is a fully interactive **Superstore Analytics Dashboard** deve
 
 ---
 
-# 📸 Dashboard Preview
 
-> Add screenshots of your final dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
 
 # 📌 Learning Outcome
 
